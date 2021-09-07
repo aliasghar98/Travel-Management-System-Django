@@ -1,3 +1,3 @@
 # Travel-Management-System-Django
 
-A travel management system developed using Django Framework.
+A travel management system web application developed using Django Framework.
